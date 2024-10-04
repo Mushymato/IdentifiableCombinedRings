@@ -1,4 +1,5 @@
 namespace IdentifiableCombinedRings.AtraStuff;
+// AtraShared/ConstantsAndEnums/ErrorMessageConsts.cs
 
 /// <summary>
 /// Static class that contains common error messages.

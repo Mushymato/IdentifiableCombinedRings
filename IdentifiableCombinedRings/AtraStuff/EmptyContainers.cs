@@ -1,4 +1,5 @@
 namespace IdentifiableCombinedRings.AtraStuff;
+// AtraBase/Collections/EmptyContainers.cs
 
 /// <summary>
 /// Gets empty containers.

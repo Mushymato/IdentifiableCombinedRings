@@ -49,7 +49,6 @@ public static class Extensions
     }
 
     // AtraBase/Toolkit/Extensions/StringExtensions.cs
-
     /// <summary>
     /// Gets the index of the next whitespace character.
     /// </summary>

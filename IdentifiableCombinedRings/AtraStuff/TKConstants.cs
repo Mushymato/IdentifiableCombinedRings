@@ -1,4 +1,5 @@
 using System.Runtime.CompilerServices;
+// AtraBase/Toolkit/TKConstants.cs
 
 namespace IdentifiableCombinedRings.AtraStuff;
 
